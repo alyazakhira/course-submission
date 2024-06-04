@@ -13,3 +13,7 @@ Here are my practice and submission for the online courses I completed for Bangk
      The first project goal is to make [Profile Page](https://github.com/alyazakhira/Profile-Page-Cloud) and deploy it to GCP. I use Google App Engine to deploy it.
      The final project is all about how to use GCP properly with the provided app to deploy.
      The goal is to implement the cost-effective and least-privilege principal.
+4. Capstone Project: SaySco
+   - SaySco is an Android based app to automate the scoring process of essay assignment.
+     I was working on the project as a Back-End Developer and Cloud Engineer.
+     Kindly check the [SaySco Official Page](https://github.com/capstone-saysco)
